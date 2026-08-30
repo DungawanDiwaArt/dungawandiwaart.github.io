@@ -1,13 +1,11 @@
 ---
-title: "Narcissistic Abuse: The Scapegoat Series"
+title: "The Aftermath: The Scapegoat Series"
 date: "2026-08-30"
 excerpt: "This series traces the emotional arc of a scapegoated family member—from taking on unearned blame to breaking free from domestic exile. ​The Setup (I–III): The scapegoat is assigned the family's secret flaws, carrying projected guilt while targeted by quiet smear campaigns designed to protect the abuser's image. ​The Weight (IV–V): Bound by duty, the scapegoat endures constant criticism and emotional isolation, serving as the household's designated emotional dumping ground. ​The Awakening (VI–VII): Recognizing the distortion, the scapegoat refuses to maintain the family illusion. Banishment becomes the catalyst for shattering the dynamic and stepping into freedom."
 draft: false
 ---
 
-The Burden Bearer: A Scapegoat’s Gallery
-
-​I. Masterpiece of Blame
+I. Masterpiece of Blame
 Painted with errors that were never mine.
 
 ​II. Cast in Their Shadow
