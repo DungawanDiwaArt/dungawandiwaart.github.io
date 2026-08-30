@@ -1,5 +1,5 @@
 ---
-title: "Unframed: Life Beyond her walls"
+title: "Unframed: Life Beyond Her Walls Series"
 date: "2026-09-30"
 excerpt: "Unbound: The World Outside Their Walls"
 draft: false
