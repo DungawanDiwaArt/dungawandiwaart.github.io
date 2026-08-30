@@ -1,5 +1,7 @@
 ---
 title: Contact
+intro: Serious inquiries and art collectors welcome. Custom framing options available upon request.
+email: dungawandiwa@gmail.com
 formEnabled: true
 ---
 
